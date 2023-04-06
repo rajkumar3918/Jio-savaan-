@@ -1,0 +1,16 @@
+.home-container{
+    margin-left: 250px;
+    margin-top: 60px;
+    margin-bottom: 6.5rem;
+    h2{
+        margin-top: 40px;
+        margin-bottom: 20px;
+        color: rgb(61, 61, 61);
+    }
+}
+.home-module{
+    display: grid;
+    grid-template-columns: repeat(8,125px);
+    gap: 20px;
+    overflow-x: hidden;
+}

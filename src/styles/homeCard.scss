@@ -1,0 +1,24 @@
+.card-img{
+    height: 110px;
+    width: 110px;
+    border-radius: 5px;
+   
+}
+.card{
+    width: 115px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+}
+.card-title{
+    font-size: small;
+    font-weight: 600;
+    
+}
+.card-subtitle{
+    font-size: small;
+    font-weight: 600;
+    color: rgb(87, 86, 86);
+}
